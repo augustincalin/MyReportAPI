@@ -1,0 +1,17 @@
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 222 222">
+	<defs>
+		<style>.cls-1{fill:#005da9;}.cls-2{fill:none;stroke:#b0c4de;stroke-miterlimit:10;stroke-width:2px;}</style>
+	</defs>
+	<circle class="cls-1" cx="110.8" cy="111.14" r="109.59"/>
+	<polyline class="cls-2" points="112.68 127.92 65.89 127.92 65.89 119.42 110.33 77.05 111.25 77.05 155.68 119.42 155.68 127.92 108.89 127.92"/>
+	<rect class="cls-2" x="123.54" y="148.26" width="16.3" height="16.3"/>
+	<line class="cls-2" x1="123.47" y1="156.41" x2="139.92" y2="156.41"/>
+	<line class="cls-2" x1="131.69" y1="148.34" x2="131.69" y2="164.49"/>
+	<line class="cls-2" x1="78.63" y1="148" x2="102.48" y2="148"/>
+	<path class="cls-2" d="M82.92,174.33V148.44"/>
+	<path class="cls-2" d="M98,174.33V148.44"/>
+	<polyline class="cls-2" points="71.58 128.49 71.58 174.05 149.74 174.05 149.74 128.37"/>
+	<polyline class="cls-2" points="127 91.77 127 82.79 139.46 82.79 139.46 103.97"/>
+	<line class="cls-2" x1="123.86" y1="79.21" x2="142.81" y2="79.21"/>
+	<line class="cls-2" x1="72.1" y1="119.66" x2="130.14" y2="119.66"/>
+</svg>

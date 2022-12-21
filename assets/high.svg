@@ -1,0 +1,30 @@
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 222 222">
+	<defs>
+		<style>.cls-1{fill:#005da9;}.cls-2{fill:none;stroke:#b0c4de;stroke-miterlimit:10;stroke-width:2px;}</style>
+	</defs>
+	<circle class="cls-1" cx="110.91" cy="111.14" r="109.59"/>
+	<path class="cls-2" d="M168.47,71,136.92,41.47l-31,29.06v6.16h7l24-22.48,24,22.48h7.56Z"/>
+	<line class="cls-2" x1="112.91" y1="76.69" x2="112.91" y2="174.36"/>
+	<line class="cls-2" x1="160.91" y1="76.69" x2="160.91" y2="174.65"/>
+	<rect class="cls-2" x="128.55" y="82.18" width="16.3" height="16.3"/>
+	<line class="cls-2" x1="128.47" y1="90.33" x2="144.92" y2="90.33"/>
+	<line class="cls-2" x1="136.7" y1="82.26" x2="136.7" y2="98.41"/>
+	<rect class="cls-2" x="128.55" y="107.62" width="16.3" height="16.3"/>
+	<line class="cls-2" x1="128.47" y1="115.77" x2="144.92" y2="115.77"/>
+	<line class="cls-2" x1="136.7" y1="107.69" x2="136.7" y2="123.84"/>
+	<line class="cls-2" x1="125.02" y1="149.02" x2="148.87" y2="149.02"/>
+	<path class="cls-2" d="M129.31,174.65V149.47"/>
+	<path class="cls-2" d="M144.42,174.65V149.47"/>
+	<rect class="cls-2" x="87.25" y="149.29" width="16.3" height="16.3"/>
+	<line class="cls-2" x1="87.18" y1="157.44" x2="103.62" y2="157.44"/>
+	<line class="cls-2" x1="95.4" y1="149.37" x2="95.4" y2="165.52"/>
+	<rect class="cls-2" x="61.82" y="149.29" width="16.3" height="16.3"/>
+	<line class="cls-2" x1="61.74" y1="157.44" x2="78.19" y2="157.44"/>
+	<line class="cls-2" x1="69.97" y1="149.37" x2="69.97" y2="165.52"/>
+	<polyline class="cls-2" points="52.89 131.43 52.89 175.36 169.13 175.36 169.13 132.06"/>
+	<path class="cls-2" d="M161.56,131.22h13.66V80.56c0,.63-13.87,0-13.87,0"/>
+	<line class="cls-2" x1="122.67" y1="131.85" x2="151.47" y2="131.85"/>
+	<polyline class="cls-2" points="112.8 80.14 47.64 80.14 47.64 131.22 112.8 131.22"/>
+	<line class="cls-2" x1="47.85" y1="124.28" x2="90.52" y2="124.28"/>
+	<line class="cls-2" x1="167.66" y1="124.07" x2="174.8" y2="124.07"/>
+</svg>
