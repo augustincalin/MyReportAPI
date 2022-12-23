@@ -6,7 +6,7 @@ using Telerik.Reporting.Services;
 
 namespace ReportApi.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class FormatsController: ReportsControllerBase
     {
