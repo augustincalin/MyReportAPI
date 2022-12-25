@@ -1,6 +1,7 @@
 using System.Collections;
 using DocumentFormat.OpenXml.Drawing.Charts;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using ReportApi.Services.Interfaces;
 
 namespace ReportApi.Controllers

@@ -43,6 +43,9 @@
     <None Update="Reports\09-Conclusion-2.trdp">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="Reports\10-Conclusion-2.trdp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="Reports\fonts\LEELAUIB.TTF">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
